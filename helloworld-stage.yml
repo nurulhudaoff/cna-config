@@ -1,1 +1,6 @@
 message: Konfig ini dari helloworld-stage.yml
+
+logging: # <---- New Entry
+  level:
+    io:
+      spring: DEBUG
